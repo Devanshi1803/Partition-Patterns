@@ -1,0 +1,13 @@
+floor,room ,week,day,kwh
+f1,r1,w1,Mon ,10
+f1,r1,w1,Tue,12
+f1,r1,w2,Mon ,10
+f1,r1,w2,Tue,
+f1,r2,w1,Mon ,8
+f1,r2,w1,Tue,10
+f1,r2,w2,Mon ,
+f1,r2,w2,Tue,
+f2,r1,w1,Mon ,12
+f2,r1,w1,Tue,7
+f2,r1,w2,Mon ,8
+f2,r1,w2,Tue,8
