@@ -3,8 +3,6 @@ Data Summarization is a simple term for a short representation of a big theory/d
 </br>
 The implementation generates the patterns that are covering and minimal in the sense that they contain respectively all complete and all empty patterns of the dataset and no pattern that is subsumed by another pattern in the same dataset.
 
-</br>
-</br>
 Software Setup:</br>
 1. Pandas: Python library</br>
 2. Jupyter Notebook</br>
